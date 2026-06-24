@@ -5,7 +5,8 @@ A modern, responsive Vue 3 single-page application that allows users to search, 
 ---
 
 ##  Live Demo & Repository
-- **GitHub Repository**: [https://github.com](https://github.com)
+- **GitHub Repository**: https://github.com/Avela337/property-mini-listings.git
+
 
 ---
 
